@@ -1,0 +1,33 @@
+Requisites for any valid KPI (Key Performance Indicator):
+===================================================
+
+The measured data:
+=> must be consistent (repeatable in time) 
+=> and must be periodic (allows number of units in proportion to a unit or time)
+
+The watched process:
+=> must be a deterministic one (results must be reproducible with certain parameters) 
+=> and must allow statistical analysis (high production volumes, not single-piece production)
+
+KPI requires ample data. And, of course, the data must be accurate and realistic.
+The data collection and calculations must be identical between locations.
+The data must be available to all stakeholders. 
+All the terms and data must be accurately defined and understood by all.
+
+
+
+Requisitos para un indicador válido:
+====================================
+
+Los datos a medir:
+=> han de ser consistentes(reproducibles a lo largo del tiempo) 
+=> y han de ser periodicos (se han de poder medir en forma de unidades por unidad de tiempo)
+
+El proceso supervisado:
+=> ha de ser determinista (los resultados obtenidos han de ser reproducibles, dentro de un rango de parámetros) 
+=> y ha de permitir realizar un análisis estadístico (el volumen de producción ha de ser grande, no siven produciones puntuales de unos pocos ejemplares)
+
+Un indicador fiable requiere una amplia muestra de datos. Datos que, por supuesto, han de ser precisos y realistas.
+La recolección de datos se ha de hacer de igual manera en todos los puntos de toma de datos.
+Los datos han de estar a disposición de cualquier interesado.
+Todas las definiciones y datos han de estar definidas con precisión y todo el mundo ha de comprenderlas bien.

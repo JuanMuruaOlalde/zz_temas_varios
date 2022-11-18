@@ -1,0 +1,11 @@
+=================================
+Tabla con funciones estadisticas
+=================================
+
+[-] La idea es que el alumno escriba/copie adecuadamente las funciones estadísticas de =MAX(...) , =MIN(...) , =PROMEDIO(...) e =DESVEST(...) en las columnas correspondientes.
+¡ojo!, los cuadros de totales en la última línea han de hacerse directamente sobre el total de los datos y no sobre los resultados de las funciones. (El máximo, mínimo y media dan igual, pero la desviación estandar da distinto.)
+
+[-] Después, usando <formato de celda><bordes>, el alumno ha de decorar la tabla.
+
+[-] Para complementar la práctica, se puede pedir que se ordene la tabla por la columna 'operario'.
+ O que se grafiquen las series de datos de cada día.

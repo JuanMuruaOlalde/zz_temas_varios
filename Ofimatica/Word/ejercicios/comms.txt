@@ -1,0 +1,95 @@
+Comunicarse a traves de un ordenador:
+la puerta a todo un mundo de información y servicios
+A lo largo de este informe vamos a tratar los tres aspectos prácticos principales a considerar cuando nos disponemos a comunicar nuestro ordenador con el exterior:
+Cómo conectarse:
+El equipamiento (periféricos y programas) necesario.
+A dónde conectarse:
+Los servicios telemáticos y las bases de datos existentes a lo largo y ancho de todo el mundo.
+Formas de facilitarnos (y abaratarnos) la conexión:
+Empleo de redes públicas o privadas de datos para conectarnos a través de ellas, en vez de llamar nosotros directamente a los servicios deseados.
+En cuanto al propio ordenador, no es necesario un aparato potente si lo único a lo que pensamos dedicarlo es a las comunicaciones y a un tratamiento básico de la información obtenida (almacenamiento, pequeños retoques, impresión, .....). En principio, casi todos los servicios telemáticos funcionan en modo texto o con gráficos muy simples, por lo que no se ponen en juego gran cantidad de datos. Normalmente es suficiente con un PC basado en el procesador 8086 o en el 80286; modelos estos que, por estar prácticamente obsoletos, pueden adquirirse muy baratos.
+En todo caso, la potencia de màquina necesaria vendrà dada por el programa (software) de comunicaciones utilizado, y por la cantidad de información a tratar o almacenar en la propia máquina.
+Y ,de todas formas, si pensamos en un ordenador para realizar además otras tareas, seran esas otras tareas las que nos determinarán la màquina necesaria.
+1.- Cómo conectarse:
+Necesitamos dos elementos para poder conectar nuestro ordenador a la linea telefónica y poder acceder a un servicio telemático: un modem, (el circuito electrónico adaptador entre el ordenador y el teléfono), y un programa de comunicaciones, (el encargado de traducir y presentar en pantalla los datos recibidos y de canalizar nuestras órdenes).
+1.1.- El modem:
+Se trata de un dispositivo "traductor" entre señales digitales manejadas por los ordenadores y tonos de sonido transmisibles a traves de la linea telefónica normal; su nombre viene de: MODulador-DEModulador de tonos.
+En cuanto a su forma, los tenemos de dos tipos:
+- externos,	ubicados en una caja que se conecta al ordenador mediante un cable;
+- o internos,	en forma de tarjeta de ampliación a encajar dentro del propio ordenador.
+Y a la hora de su elección, conviene tener en cuenta dos aspectos:
+Los comandos de control a los que responde: determinandonos estos si el programa de comunicaciones escogido será o no capaz de controlar el modem correctamente.
+Es importante que estos comandos sean lo mas comunes posible, ya que en caso contrario solo podremos usar nuestro modem con programas especiales hechos a medida para él. Actualmente, los dos standares mas comunes son: comandos HAYES y comandos BELL, siendo los primeros los de mas amplia difusión.
+Las normas de conexión soportadas: determinadonos estas los servicios y/o redes a los que tendremos acceso físico (enlace entre nuestro ordenador y el del servicio).
+Las principales son:
+V22 y V22bis: Acceso a la mayoria de las redes de datos; tales como SPRITEL, patrocinada por el Gobierno Vasco, y a traves de la cual podemos acceder a múltiples servicios: BOE, BOPV, Oficina de Patentes, registro de empresas y servicios, incidencias judiciales, legislación, Universidades y Centros de Investigación, ......
+Acceso a las BBS-s (Boletin Board Services) establecidas en todo el mundo por grupos de usuarios, empresas informáticas, particulares aficionados al tema, etc. En ellas podemos encontrar correo y foros de debate acerca de temas de interés común para sus socios, así como programas informáticos realizados por ellos.
+Estas dos normas son también las empleadas normalmente para comunicar dos ordenadores particulares entre sí para enviar/recibir datos entre ellos.
+Su única limitación es que comunican a 1.200 y 2.400 baudios, respectivamente, (unos 100 y 200 caracteres por segundo, aproximadamente). Velocidad un tanto lenta actualmente y que está siendo sustituida paulatinamente por otras normas más rápidas, (dependiendo de las mejoras introducidas por Telefónica en sus lineas; existiendo aún lugares apartados con lineas antiguas que tan solo permiten estas velocidades  lentas).
+V23: Acceso a la red IBERTEX, patrocinada por Telefónica, y a través de la cual podemos contactar con múltiples servicios de lo más variado, tales como: CortiCompra del Corte Ingles, Listines telefónicos (Paginas Amarillas y Asules de toda España), Horóscopos, Contactos, Bases de datos con incidencias judiciales de toda España, Agencias de transportes, Inmobiliarias, Información ciudadana de algunas localidades como Barcelona, Getxo, ....
+Es una red lenta, (1.200/75 baudios), y de consulta un tanto pesada por las muchas pantallas gráficas de relleno que tiene para adornar la información. Pero a traves de ella podemos encontrar información permanentemente actualizada sobre temas de interes, tales como: incidencias judiciales, quiebras, sentencias, informes económicos, ...., horarios de trenes, aviones y autobuses en algunas zonas, Páginas Amarillas y Páginas Azules, reservas de hoteles,.......
+V27, V29, V32, V33, etc: Normas más rápidas (4.800, 9.600, 14.400, 19.200, ... baudios) que poco a poco se van implantando en casi todos los servicios telemáticos accesibles actualmente a través de la norma V22.
+En la conexión entre dos ordenadores particulares también se tiende a utilizar estas velocidades, siendo de uso común en el extranjero. Su posibilidad de uso viene dada por la calidad de la linea telefónica existente entre los dos puntos a comunicar; actualmente, en España, está disponible en todas las capitales y poblaciones mas importantes (aquellas en que se han instalado centralitas digitales modernas).
+Ahorran mucho tiempo de conexión, sobre todo cuando se trata de recibir archivos completos con bastantes datos, (no tanto si tan sólo consultamos interactivamente algún dato aislado). Y, si nos conectamos a menudo, este ahorro de tiempo se nota mucho en la factura del teléfono; compensando con creces el mayor precio inicial que hemos de pagar por el propio modem.
+MNP4 y MNP5: no son normas de conexión propiamente dichas, sino mas bien de compresión de datos, (para poder transmitir más información a la misma velocidad), y de corrección de datos, (para poder trabajar sobre lineas con ruido e interferencias).
+Posibilidad de envio y/o recepción de FAX-es: Algunos modems son capaces de funcionar también como un aparato de fax, pudiendo enviar un archivo introducido en el ordenador a cualquier fax normal; y, algunos, recibir un fax cualquiera destinado a nosotros (pudiendose bien verlo en pantalla o bien imprimirlo en  impresora).
+Son muy útiles, en conjunción con un ordenador pórtatil, para poder trabajar desde cualquier sitio (hoteles, apartamentos, ...).
+(Nota: aunque nuestro modem no pueda directamente, algunas redes -Spritel, por ejemplo- nos permiten enviar un texto a cualquier fax del mundo; realizando ellas las conversiones necesarias. Así como también nos pueden permitir el enviar/recibir telex a/desde cualquier máquina telex del mundo).
+1.2- El programa de comunicaciones:
+Son las instrucciones necesarias para el ordenador cara a controlar el modem, recoger nuestras peticiones, recoger la información de respuesta y presentarnosla en pantalla, almacenarla, imprimirla, .....
+Es importante, ya que de su mayor o menor facilidad de uso, (y de sus posibilidades), dependerá el buen aprovechamiento de nuestro modem y la información accesible a través de él.
+Los hay de todos los tipos: desde muy complejos, basados en órdenes escritas y orientados a personal informático; hasta muy simples, basados en pantallas gráficas y menús para selección de órdenes. Algunas redes, como Spritel, ofrecen sus propios programas de comunicaciones adaptados perfectamente a las caracteristicas propias de la red y, normalmente, sencillos de utilizar en dicha red.
+En muchos casos, el propio modem suele incluir un programa en el precio. Y, además, bastantes de ellos son de dominio público (no comerciales y de libre copia). Por lo que en muchos casos, el programa de comunicaciones no supondrá desembolso extra de dinero.
+De todas formas, es conveniente asesorarse convenientemente acerca de los programas disponibles para nuestros propósios y para nuestro modem; y, en caso de comprar uno, procurar probarlo antes para ver si nos sentimos o no cómodos trabajando con él.
+Normalmente, se suelen emplear varios programas, (con el mismo modem), según sea el servicio o red al que nos vayamos a conectar. (Por ejemplo, yo suelo emplear EMULUS para conectarme a Spritel, TELIX para acceder a BBS-s y PCTEX para acceder a Ibertex.)
+A la hora de elegir un programa de comunicaciones, aparte de su facilidad de uso, es conveniente tener en cuenta dos aspectos:
+Las emulaciones de terminal soportadas: determinadonos estas los servicios y/o redes a los que tendremos acceso lógico (que los datos transmitidos sean correctamente interpretados en nuestro ordenador, y viceversa).
+Las principales son:
+VT100: la mas general y que nos da entrada a gran parte de los servicios.
+ASCII y TTY: emulaciones simples, solo texto (sin negritas, subrrayados, colores, .....). Algunas BBS-s y algunos ordenadores centrales de empresas suelen emplearlo.
+IBERTEX: es una norma propia de la red del mismo nombre patrocinada por Telefónica. Es necesaria para acceder a los servicios dispobibles en dicha red.
+MINITEL: es una norma propia de la red del mismo nombre patrocinada por la PTT francesa. 
+DEC, DCA, VT52, IBM3101, ......: siendo estas normas ráramente utilizadas en los servicios normales.
+Los protocolos de transferencia de archivos soportados: determinandonos estos los servicios desde/hacia los que podremos recibir/enviar archivos completos de datos.
+Los principales son:
+XMODEM, YMODEM, ZMODEM, KERMIT,......... y sus múltiples variantes.
+Realmente, este es un apartado mas o menos complejo en que es necesario saber exactamente la información a intercambiar y con quien; para poder decidir cual de todos los protocolos emplear.
+Además, muchos de los servicios soportan más de un protocolo; pudiendo elegir nosotros cual vamos a emplear en cada caso concreto.
+De todas formas, cada servicio normalmente nos recomienda alguno de ellos en concreto. Y, en caso de no hacerlo, con unas cuantas pruebas podremos determinar rápidamente cual de ellos viene mejor para nuestros propósitos. Una vez establecido cual es el mas adecuado, ya lo usaremos siempre; por lo que este tema no nos plantea excesivas dificultades en la práctica.
+Las diferencias ente ellos radican en mayor o menor inmunidad frente a interferencias en la linea, mayor o menor velocidad con ciertos tipos de archivos, facilidades o no para transmitir varios archivos seguidos, o para recuperar la transmisión tras un corte de linea, etc, etc.
+2.- A donde conectarse:
+Existen infinidad de servicios disponibles a lo largo y ancho de todo el mundo. Para conectarse a cualquiera de ellos tan sólo necesitamos saber el número de teléfono a marcar; y tener los derechos de acceso, (saber las palabras clave, estar abonado, ...), en caso necesario.
+A efectos prácticos, podriamos agruparlos en varias categorías:
+Instituciones oficiales o académicas: como el BOE, el BOPV, el Instituto Nacional de Estadística, los fondos documentales del Archivo de Indias y otros archivos importantes, los distintos Registros de Patentes y Marcas existentes en el mundo, departamentos de investigación y bibliotecas de algunas Universidades,  ............
+Empresas privadas: que se dedican a recoger información de ciertos campos, crean bases de datos con ella y las ofrecen al público como un servicio (normalmente de pago). En este apartado podemos encontrar un poco de todo: incidencias judiciales, informes económicos, valores bursátiles, información de todo tipo acerca de materiales industriales, ofertas y demandas de servicios de toda clase, compendios de legislación y sentencias, estadisticas variadas, ............
+Boletin Board Services (BBS-s): Son servicios de mensajeria e intercambio de ficheros, normalmente creados por aficionados a la informática o por empresas relacionadas con ella, y sin ánimo de lucro. En ellas podemos encontrar un poco de todo, desde la BBS creada por un grupo de amigos, hasta la creada por una empresa para dar soporte a sus clientes.
+Conexiones privadas: Establecidas punto a punto entre dos ordenadores conocidos para intercambiar datos entre ellos. Aquí podemos englobar todas las conexiones de las sucursales bancarias con la sede central, conexiones entre proveedores y clientes para envio directo de documentación, conexiones entre las diversas delegaciones de una empresa y la casa madre para transmisión de pedidos, ..............
+Centros de cálculo que "alquilan" sus servicios. Por ejemplo, el Centro de Supercomputación instalado por el Gobierno Vasco en Zamudio; donde hay varios ordenadores de gran potencia a los que pueden conectarse las empresas para encargarles complejas tareas, (cálculo de estructuras, resistencia de materiales, simulaciones de todo tipo, ...), imposibles de realizar con las limitadas máquinas disponibles en las propias empresas. O también este es el caso de algunos centros de cálculo que se encargan de procesar los datos administrativos de empresas, en los que las filiales y delegaciones de una empresa transmiten datos "en bruto" al centro de cálculo, este los procesa y devuelve a la empresa madre los resultados elaborados y contabilizados.
+3.- Formas de facilitar (y abaratar) la conexión: las redes de datos
+A medida que se han ido creando servicios telemáticos, estos se han ido asociando entre ellos para intercambiar información, abaratar costes, facilitar la conexión a los usuarios, .....; y, poco a poco, se han ido formando redes de interconexión entre sus distintos ordenadores, (denominados "nodos" dentro de la terminologia de red), a través de todo el mundo.
+Además los diversos gobiernos mundiales y algunas instituciones, (como las Universidades, por ejemplo), también han ido "tejiendo" todo un entramado de conexiones entre distintos ordenadores de su ámbito.
+Y para rematar el tema, también se van uniendo entre sí las diversas redes a traves de nodos (ordenadores) comunes a varias de ellas.
+De todo ello, ha ido surgiendo toda una red de comunicaciones digitales que cubre todo el planeta de manera similar a como lo hace la red telefónica mundial de voz.
+Así, para acceder a un ordenador o servicio telemático concreto tenemos múltiples caminos:
+– llamar directamente a él,
+– llamar a algún nodo cercano de alguna red apropiada,
+– o, (si el volumen comunicación es alto), engancharnos directamente a la red apropiada; convirtiendonos en un nodo de la misma.
+En los dos últimos casos, es la propia red la que se encarga de encaminar nuestras peticiones hasta la máquina correcta; normalmente, a un coste mucho menor que la llamada directa, ya que las redes emplean medios mas adecuados para la transmisión de datos que la linea telefónica normal.
+El conectarnos a través de una red y no directamente nos reporta muchas ventajas:
+Facilidad de acceso: Solo hemos de llamar a un único número, al nodo de enganche con la red mas cercano a nuestra ubicación. Siendo la red la que se encarga de todo el resto de la conexión hasta los diversos servicios a los que deseemos acceder.
+Economia: ya que nuestra llamada telefónica es hasta el nodo mas cercano, normalmente dentro de la misma provincia o pais, y no hasta la propia ubicación del servicio, que puede estar incluso en otro continente; con el consiguiente ahorro en la factura telefónica.
+El resto del trayecto se cubre a través de la red, que suele contar con medios de transmisión para datos mas económicos y eficaces que la linea telefónica normal.
+Sencillez de facturación y mayor control del gasto: ya que normalmente es la propia red la que nos pasa una factura única por todos los servicios utilizados.
+Nota: el costo total de una conexión a un servicio telemático viene dado por la suma de:
+- la llamada telefónica (igual a como si hablaramos normalmente -voz- con el telefono marcado, dependiente de la distancia y el tiempo);
+- y lo que nos cobra el propio servicio o la red (normalmente por cantidad de información transmitida y por tiempo de conexión, independientemente de la distancia).
+Algunas de las redes a nuestra disposición son:
+SPRITEL:
+Redes VIDEOTEX de los diversos paises:
+IBERTEX en España:
+MINITEL en Francia:
+INTERNET:
+EUNET:
+X-25:
+COMPUSERVE:
+

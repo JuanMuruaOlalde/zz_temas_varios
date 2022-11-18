@@ -1,0 +1,137 @@
+\documentclass[spanish,12pt,a4paper,final,oneside]{article}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.5em}
+\usepackage[spanish]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[a4paper, total={15cm, 23cm}]{geometry}
+
+\addtolength{\skip\footins}{2pc plus 5pt}
+
+\usepackage{enumitem}
+\setlist{topsep=0pt}
+
+\usepackage{longtable}
+\setlength{\tabcolsep}{12pt}
+
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+
+\usepackage{graphicx}
+\graphicspath{ {./imagenes/} }
+
+\usepackage[colorlinks]{hyperref}
+\hypersetup{colorlinks=true}
+\hypersetup{urlcolor=blue}
+\usepackage{cleveref}
+
+\usepackage{fancyhdr}
+\fancyhf{}
+%\fancyhead[RE]{\small\scshape\nouppercase{\leftmark}}
+%\fancyhead[LO]{\small\scshape\nouppercase{\leftmark}}
+\fancyhead[LE,RO]{\small\thepage}
+\pagestyle{fancy}
+
+\usepackage{authoraftertitle}
+\title{Implantación de un ERP}
+\author{Juan Murua Olalde}
+\date{27/04/2022}
+
+\begin{document}
+
+\begin{center}\begin{LARGE}
+\MyTitle
+\end{LARGE}\end{center}
+\begin{footnotesize}\rightline{inicio de redacción: \MyDate}
+\rightline{últimos cambios: \today}\end{footnotesize}
+
+\hypersetup{linkcolor=black}
+%\tableofcontents
+
+\vspace{1cm}
+
+
+\section{Selección}
+Es importante involucrar desde el principio a una parte amplia y variada de las personas que van a verse afectadas. Por ejemplo, en la lista de requisitos y en las formaciones/demostraciones han de participar todos los departamentos/delegaciones/filiales/\ldots
+
+Es importante recoger el sentir y la opinión generales.
+\\Es importante que todas las personas se sientan informadas de lo que se va a hacer.
+\\Es importante que quede claro que el nuevo ERP es importante\footnote{ Hacer ver que Dirección está realmente implicada. Es decir, que está convencida del valor del ERP y que pone los medios que sean necesarios, a todos los niveles.}. 
+
+
+\subsection{Lista de requisitos funcionales operativos}
+Se trata de recoger qué hacemos, y qué datos empleamos para hacerlo, en los procesos de nuestro día a día.
+
+Es un punto de partida para comenzar a hablar con los partners de los distintos ERPs acerca de cómo cubren sus soluciones nuestros requerimientos.
+
+\subsection{Formación y demostraciones}
+Se trata de ver cómo cubren algunos de nuestros requisitos (los más importantes) todos y cada uno de los candidatos a nuevo ERP.
+
+Con la doble intención de:
+\begin{itemize}
+
+\item Tener una impresión de cómo lo hacen.
+
+\item Calibrar el grado de entendimiento:
+\begin{itemize}
+\item que tiene el partner de nuestro negocio,
+\item que tenemos nosotros de la solución propuesta.
+\end{itemize}
+
+\end{itemize}
+
+\subsection{Evaluar el ecosistema de partners}
+Se trata de ver los posibles partners que podriamos tener en los distintos paises donde estemos implantados.
+
+Hablando con ellos para:
+\begin{itemize}
+\item evaluar el soporte que podemos recibir,
+\item evaluar el grado de colaboración al que podemos aspirar.
+\end{itemize}
+
+
+\section{Implantación}
+
+Es importante planificar entregables concretos y tangibles a lo largo del proyecto. Se ha de trabajar de forma iterativa, implementando algo ``que se pueda ver'' cada pocos meses.
+\\Huir de proyectos ``monolíticos'' cerrados, ``llave en mano'', proyectos de entregar ``todo o nada''.
+
+(*) Obviamente, también se han de planificar los correspondientes pagos a lo largo del proyecto. Aunque de eso ya se encargará el partner\ldots ;-) (pocos están dispuestos a asumir un solo pago ``todo o nada'' al final).
+
+
+\subsection{Seguimiento}
+Es necesario llevar al día (algunos documentos son vivos, su información va variando) y conservar (almacenamiento con gestión de versiones):
+\begin{itemize}
+
+\item \textbf{Ofertas} y \textbf{contratos} firmados.
+
+\item \textbf{Documentos de requisitos} (casos de uso) y \textbf{resultados de los test} que verifican que se cumplen, tanto unitarios (con casos estándares teóricos) como funcionales (con casos reales nuestros)
+
+\item \textbf{Bitácora} del proyecto, recogiendo el ``timeline'' de lo que ha ido sucediendo. Documentando bien todas las decisiones importantes, en el mismo momento en que se están evaluando y en mismo momento en que toman.
+
+\item Copias de seguridad del software desarrollado, ``snapshots'' de las distintas fases del proyecto. De tal forma que se puedan volver a montar los entornos tal y como estaban en un punto determinado del tiempo, cara a demostrar/evaluar/refutar afirmaciones futuras.
+
+\item \textbf{Resultados obtenidos}, recogiendo las partes que se han utilizado (con tiempo/volumen de utilización) y las partes que no se han podido utilizar (con explicación de por qué). Servirá para elaborar un informe de valor entregado vs. precio pagado vs. coste incurrido.
+
+\end{itemize}
+
+
+\subsection{Arranque}
+Todas las personas que vayan a utilizar los nuevos sistemas han tenido que recibir formación previa. Por lo menos la suficiente para que ``les suene'' lo que van a utilizar y sepan buscar ayuda cuando se atasquen.
+
+Contar con que seguirán necesitando formación y soporte después del arranque, hasta que ``se sientan cómodas'' utilizando el nuevo ERP y los nuevos procesos.
+
+(*) Obviamente, ninguna formación puede ser efectiva sin motivación ni ganas de aprender.
+
+
+
+\subsection{Post-arranque}
+La fase de estabilización es clave.
+
+Tanto nosotros como el partner hemos de seguir colaborando y poniendo los recursos que sean necesarios. Hasta que el software ``entre en velocidad de crucero'' en su uso habitual.
+
+Durante el tiempo que sea necesario; hasta que el número de incidencias sea razonable.
+
+(*) Todo software tiene errores. Pero lo que no se puede admitir es que tenga errores bloqueantes (aquellos que impiden trabajar en procesos clave para el normal funcionamiento de la empresas y que no son resolubles en un periodo corto de tiempo).
+
+
+\end{document}
