@@ -33,6 +33,46 @@ Los datos han de estar a disposición de cualquier interesado.
 Todas las definiciones y datos han de estar definidas con precisión y todo el mundo ha de comprenderlas bien.
 
 
+Indicadores en desarrollo de software: métricas DORA
+======================================
+https://codeclimate.com/blog/dora-metrics
+
+**Deployment Frequency**
+
+Deployment Frequency (DF) measures the frequency at which code is successfully deployed to a production environment. It is a measure of a team’s average throughput over a period of time, and can be used to benchmark how often an engineering team is shipping value to customers.
+
+Engineering teams generally strive to deploy as quickly and frequently as possible, getting new features into the hands of users to improve customer retention and stay ahead of the competition. More successful DevOps teams deliver smaller deployments more frequently, rather than batching everything up into a larger release that is deployed during a fixed window. High-performing teams deploy at least once a week, while teams at the top of their game — peak performers — deploy multiple times per day.
+
+Low performance on this metric can inform teams that they may need to improve their automated testing and validation of new code. Another area to focus on could be breaking changes down into smaller chunks, and creating smaller pull requests (PRs), or improving overall Deploy Volume.
+
+**Mean Lead Time for Changes**
+
+Mean Lead Time for Changes (MLTC) helps engineering leaders understand the efficiency of their development process once coding has begun. This metric measures how long it takes for a change to make it to a production environment by looking at the average time between the first commit made in a branch and when that branch is successfully running in production. It quantifies how quickly work will be delivered to customers, with the best teams able to go from commit to production in less than a day. Average teams have an MLTC of around one week. 
+
+Deployments can be delayed for a variety of reasons, including batching up related features and ongoing incidents, and it’s important that engineering leaders have an accurate understanding of how long it takes their team to get changes into production.
+
+When trying to improve on this metric, leaders can analyze metrics corresponding to the stages of their development pipeline, like Time to Open, Time to First Review, and Time to Merge, to identify bottlenecks in their processes. 
+
+Teams looking to improve on this metric might consider breaking work into smaller chunks to reduce the size of PRs, boosting the efficiency of their code review process, or investing in automated testing and deployment processes. 
+
+**Change Failure Rate**
+
+The Change Failure Rate (CFR) is a calculation of the percentage of deployments causing a failure in production, and is found by dividing the number of incidents by the total number of deployments. This gives leaders insight into the quality of code being shipped and by extension, the amount of time the team spends fixing failures. Most DevOps teams can achieve a change failure rate between 0% and 15%.
+
+When changes are being frequently deployed to production environments, bugs are all but inevitable. Sometimes these bugs are minor, but in some cases these can lead to major failures. It’s important to bear in mind that these shouldn’t be used as an occasion to place blame on a single person or team; however, it’s also vital that engineering leaders monitor how often these incidents happen.
+
+This metric is an important counterpoint to the DF and MLTC metrics. Your team may be moving quickly, but you also want to ensure they’re delivering quality code — both stability and throughput are important to successful, high-performing DevOps teams.
+
+To improve in this area, teams can look at reducing the work-in-progress (WIP) in their iterations, boosting the efficacy of their code review processes, or investing in automated testing. 
+
+**Mean Time to Recovery**
+
+The Mean Time to Recovery (MTTR) measures the time it takes to restore a system to its usual functionality. For elite teams, this looks like being able to recover in under an hour, whereas for many teams, this is more likely to be under a day.
+
+Failures happen, but the ability to quickly recover from a failure in a production environment is key to the success of DevOps teams. Improving MTTR requires DevOps teams to improve their observability so that failures can be identified and resolved quickly. 
+
+Additional actions that can improve this metric are: having an action plan for responders to consult, ensuring the team understands the process for addressing failures, and improving MLTC. 
+
 
 
 Comentarios extraidos de un artículo
