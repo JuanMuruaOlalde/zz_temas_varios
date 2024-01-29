@@ -31,3 +31,19 @@ Un indicador fiable requiere una amplia muestra de datos. Datos que, por supuest
 La recolección de datos se ha de hacer de igual manera en todos los puntos de toma de datos.
 Los datos han de estar a disposición de cualquier interesado.
 Todas las definiciones y datos han de estar definidas con precisión y todo el mundo ha de comprenderlas bien.
+
+
+
+
+Comentarios extraidos de un artículo
+====================================
+ https://visualstudiomagazine.com/Articles/2024/01/16/rethinking-team-metrics.aspx?oly_enc_id=8264G5036434F6C
+
+..//..
+Percent complete is one to be avoided because it can literally never be accurate. I like to say that building software is not simply a typing exercise, and how much work is needed to be able to call a feature "done" is impossible to know, until it is done. So any numbers we throw out in terms of percent complete, assumes we know precisely how long the thing will take, which is why we often experience people being 95 percent done for days or even weeks. Velocity is a bit different. I don't think it is a bad metric per se, I think it can be misunderstood. Velocity is a quantitative measure of output and it only gives the team credit for features deemed done, which is qualitative. Establishing a pattern of how much work a team can take on and complete successfully can aid in expectations setting, but if you start making an increase in velocity the thing to strive for, well most software developers are GREAT at math. I can make velocity whatever number you need it to be, if all you're concerned about is the number. I encourage people to look at Velocity as a signal, and if that number start to vary wildly that's a good time to have a conversation about what's impacting their velocity and see if the team could use some support.
+
+../..
+
+A metrics mindset encompasses a couple of concepts. One, is that metrics should never be viewed in a vacuum. Echoing what I said previously, they are not the end goal, they are simply a signal of whether things are moving in the right direction. When we see a "blip" in the trend, we should be having informed conversations about what the metrics mean. That's lesson two of a metrics mindset, metrics should always be surrounded by conversation. Without context, we can take any number of conclusions away from a dashboard of metrics, and most of them will be wrong. This is why I always bristle when I am asked to build dashboards that will be used by managers to measure and judge teams in their department. They're often pasted into reports, and used to communicate progress and status, without the valuable context that tells the real story. If you want to know what the other principals of a metrics mindset are, be sure to come to my talk!
+
+../..
