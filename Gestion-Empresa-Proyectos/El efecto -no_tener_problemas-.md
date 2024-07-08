@@ -25,16 +25,15 @@ Así es que para "no tener problemas", el camino más lógico es continuar hacia
 
 Al final se acaba en un círculo vicioso de: se contrata un trabajo -> tiene problemas -> se contrata un nuevo trabajo para arreglar los problemas -> ... 
 
-Esta es una situación muy ventajosa para el proveedor contratado. Tiene trabajo asegurado para mucho tiempo. Tan solo ha de evitar cometer un error tan enorme que ponga a quien le contrata en una situación insostenible. Mientras no se cree un escándalo mayúsculo, imposible de justificar, el contrato continuará.
+Esta es una situación muy ventajosa para el proveedor contratado. Tiene trabajo asegurado para mucho tiempo. Tan solo ha de evitar cometer un error tan enorme que ponga en una situación insostenible a quien le contrata. Mientras no se cree un escándalo mayúsculo, imposible de justificar, el contrato continuará.
 
 ## conclusión
 
-Algunos proveedores conocen este efecto y están especializados en sacar provecho de él. Es importante estar prevenido.
+Algunos proveedores conocen este efecto "no tener problemas" y están especializados en sacar provecho de él. Es importante estar prevenido, para evitarlos.
 
-Un buen proveedor/partner será siempre aquel que ofrece varias opciones. Explicando pros y contras. Avisando de posibles problemas que pudieran surgir. Dándo "pistas" de aquello en que seria conveniente "adaptar" en nuestras formas de trabajar.
+Un buen proveedor/partner suele plantear varias opciones. Explica pros y contras conocidos. Avisa de posibles problemas que podrian surgir. Da "pistas" de aquello en que seria conveniente "adaptar" nuestras formas de trabajar. Aunque, obviamente, no puede ponernos las cosas muy crudas (porque nos "asustaria" y perderia el contrato). Pero tampoco puede ocultar completamente las dificultades del camino y el esfuerzo necesario para recorrerlo.
 
-Obviamente, no puede ponernos las cosas muy crudas. Porque nos "asustaria" y perderia el contrato. Pero tampoco puede ocultar completamente las dificultades en el camino y el esfuerzo necesario para recorrerlo.
-
-Por otro lado, por nuestra parte, es importante preocuparnos por aprender y mantener por lo menos el conocimiento general suficiente. De tal forma que:
-- sepamos preguntar cuando algo no nos quede claro
-- y sepamos poner en contexto las respuestas/propuestas que nos den.
+Por eso, es importante preocuparnos por aprender y mantener por lo menos un conocimiento general suficiente. De tal forma que:
+- podamos seguir el hilo de lo que nos están proponiendo,
+- sepamos preguntar cuando algo nos plantee dudas,
+- y seamos capaces de poner en contexto las respuestas/propuestas que nos den.
