@@ -147,17 +147,15 @@ Hornear durante unos 30 minutos.
 
 ### cosas importantes a tener en cuenta
 
-La levadura de panaderia es un ser vivo. La sal mata las levaduras. Cuidado al añadir ambas, procurar que una no caiga directamente sobre la otra.
+¡Importantísimo!: No confundir la levadura de panaderia con la (mal llamada)"levadura" de pasteleria. La de pasteleria es un químico gasificante (su nombre en inglés es "backing powder" -polvo de hornear-). No es levadura. No sirve para hacer pan. La levadura de panaderia es un ser vivo. 
 
-El agua conviene que esté tibia (el frio ralentiza el desarrollo de las levaduras). Si el agua es de grifo, conveniene dejarla airear un rato en una jarra abierta o similar (el cloro afecta a las levaduras).
+La sal mata las levaduras; cuidado al añadir ambas, procurar que una no caiga directamente sobre la otra. El agua conviene que esté tibia (el frio ralentiza el desarrollo de las levaduras). Si el agua es de grifo, conveniene dejarla airear un rato en una jarra abierta o similar (el cloro afecta a las levaduras). Pero nada de todo esto es demasiado importante. Las levaduras son lo bastante resistentes como para aguantar todo eso ;-)
 
 El trabajo de amasado es importante. De ahí lo de cuidar como mínimo diez minutos con un reloj cuando se hace manualmente (se hacen unos minutos muuyyy laaargooos... y ¡cansados!).
 
 Sobretrabajar el amasado puede estropear la masa. De ahí lo de cuidar no sobrepasar unos cinco minutos cuando se hace mecánicamente. (A mano, es imposible pasarse,... a no ser que nos guste mucho el ejercicio... ;-)
 
-¡Importante!: No confundir la levadura de panaderia con la (mal llamada) "levadura" de pasteleria. La de pasteleria no es levadura, es un químico gasificante (su nombre en inglés es "backing powder" -polvo de hornear-). No sirve para hacer pan.
-
-Las levaduras son seres vivos y existen multitud de especies de levaduras. Están presentes en muchas superficies, en prácticamente casi cualquier lugar. Las levaduras se pueden cultivar y conservar. Es lo que se denomina 'masa madre': una pella de harina donde crecen levaduras. Una pella de masa madre que se mantiene viva cuidandola todos los días: retirando la mitad para hacer el pan del día y añadiendo harina/agua nueva para recuperar esa mitad de masa.
+nota: Las levaduras son seres vivos y existen multitud de especies de levaduras. Están presentes de forma natural en muchas superficies, en prácticamente casi cualquier lugar. Las levaduras se pueden cultivar y conservar. Es lo que se denomina 'masa madre': una pella de harina donde crecen levaduras. Una pella de masa madre se mantiene viva cuidandola todos los días: retirando la mitad para hacer el pan del día y añadiendo harina/agua nueva para recuperar esa mitad de masa.
 
 
 
