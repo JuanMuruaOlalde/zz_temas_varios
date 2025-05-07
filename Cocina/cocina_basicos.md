@@ -67,32 +67,34 @@ No añadir nunca aceite al agua de cocción. El aceite, al escurrir la pasta, cr
 
 ## Legumbres
 
-Dejarlas hidratar en agua. Para las lentejas puede bastar unos 15 minutos, para las alubias mejor unas horas y para los garbanzos mínimo 12 (mejor 24) horas.
+Dejarlas hidratar en agua. Para las lentejas puede bastar unos 15 minutos, para las alubias mejor dejarlas unas cuantas horas y para los garbanzos se necesitan un mínimo de unas 12 horas (mejor 24).
 
-Se puede comenzar a cocer directamente en el agua de hidratar. Cocer a fuego medio o bajo. Cocer la legumbre sola durante un tiempo: lentejas como una hora, alubias como un par de horas, garbanzos un par de horas. Revolviendo de vez en cuando. 
+Se puede comenzar a cocer directamente en el agua de hidratar. Cocer a fuego bajo. Cocer la legumbre sola durante un tiempo: lentejas como una hora, alubias como un par de horas. Revolviendo de vez en cuando. 
 
-Después de ese tiempo cociendose ella sola la legumbre, añadir verduras, sal y un chorrito de aceite de oliva (o "sacramentos", si se desea un aporte de grasa mayor). Seguir cociendo: lentejas otra media hora (hasta que las verduras estén cocidas), alubias como otra hora o así, garbanzos otro par de horas. Revolviendo de vez en cuando.
+Después de ese tiempo cociendose ella sola la legumbre, añadir verduras, sal y un chorrito de aceite de oliva (o "sacramentos", si se desea un aporte de grasa mayor). Seguir cociendo: lentejas otra media hora (hasta que las verduras estén cocidas), alubias como otra hora o así. Revolviendo de vez en cuando.
 
 ### cosas importantes a tener en cuenta
 
-Cocer a fuego medio o lento, para evitar romper la legumbre. (sobre todo las alubias, que necesitan cocerse muy suave). Importante revolver de vez en cuando, para evitar que se pegue el fondo.
+Cocer a fuego lento, para evitar romper la legumbre. (Sobre todo las alubias, que necesitan cocerse muy suave). Importante revolver de vez en cuando, para evitar que se pegue el fondo.
 
 Las alubias mejoran si se les corta la cocción con agua fria, un par de veces por lo menos. También mejoran si tienen abundante grasa al final de la cocción. (Esa es la misión de los "sacramentos": chorizo de cocer, panceta, carne de cerdo grasa,...).
 
-Con el resto de legumbres, si se necesita añadir más agua durante la cocción, que sea caliente.
+Con el resto de legumbres, si se necesita añadir más agua durante la cocción, mejor que sea caliente.
 
-Los garbanzos, incluso, conviene echarlos al agua una vez esté hirviendo. (Es decir, sacarlos del agua de hidratar antes de empezar a calentar y devolverlos al agua cuando esta comience a hervir.)
+### garbanzos
 
-Los garbanzos hacen muy buen caldo si se cuecen con esqueletos de pollo, huesos de caña, huesos de rodilla,... Para hacer caldo, poner abundante agua desde el principio, en una olla grande.
+Los garbanzos son un poco especiales. Van alrevés del resto de legumbres: hay que sacarlos del agua de hidratar antes de empezar y devolverlos al agua cuando esté hirviendo. Es decir, primero ponemos a cocer las verduras y todo lo demás (sin los garbanzos); esperamos a que el guiso esté hirviendo y entonces echamos los garbanzos.
 
-Con los garbanzos se puede aprovechar para cocer también carne de guisar, morcillo o jarrete. Esa carne se puede poner luego con tomate. Así se tiene un segundo plato además de los garbanzos. (Comida completa en un solo guiso: caldo, garbanzos y carne.)
+Los garbanzos hacen muy buen caldo si se cuecen con esqueletos de pollo, huesos de caña o huesos de rodilla. Poner abundante agua desde el principio, en una olla grande. Si se ha de añadir más agua durante la cocción, que sea muy caliente (hirviendo).
+
+Con los garbanzos se puede aprovechar también para cocer carne de guisar, morcillo o jarrete. Esa carne se puede terminar luego aparte, con tomate u otra salsa. Así tenemos una comida de tres platos en un solo guiso: caldo, garbanzos con verduras y carne en salsa.
 
 
 ## Arroz
 
 Poner abundante agua a calentar en una olla. (Mejor si es caldo ligero de carne o de pescado en lugar de simple agua.)
 
-En una sartén o paellera, hacer un sofrito (en aceite de oliva, a fuego bajo, cebolla y/o ajos y/o pimientos hasta que estén dorados). Al final del sofrito se pueden añadir los complementos que más nos gusten: taquitos de carne o de pescado crudos, verduras cocidas, gambas peladas crudas,... Se puede añadir también tomate o alguna otra salsa.
+En una sartén o paellera, hacer un sofrito (en aceite de oliva, a fuego bajo, cebolla y/o ajos y/o pimientos hasta que estén apochados). Al final del sofrito se pueden añadir los complementos que más nos gusten: taquitos de carne o de pescado crudos, verduras cocidas, gambas peladas crudas,... Se puede añadir también tomate o alguna otra salsa.
 
 Rehogar el arroz en el sofrito. La medida de arroz puede ser: una capa fina que cubra toda la sartén o paellera.
 
