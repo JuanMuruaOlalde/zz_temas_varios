@@ -8,11 +8,13 @@ Aprovecho para comentar que hay muchas formas de cocinar. Cada cual cocina como 
 
 Cualquier cosa se corta mejor con un cuchillo adecuado y bien afilado. Pero cuanto más afilado esté el cuchillo, mayor peligro de cortarnos nosotros.
 
-Solo hay una manera segura de aprender a cortar: jamás de los jamases poner los dedos (ni ninguna otra parte del cuerpo) en la dirección de la herramienta. En todo momento, si el movimiento de la herramienta fuera más lejos de lo que habiamos previsto... que vaya a la tabla de cortar o al aire.
+Solo hay una manera segura de cortar: jamás de los jamases poner los dedos (ni ninguna otra parte del cuerpo) en la dirección de la herramienta. En todo momento, si el movimiento de la herramienta fuera más lejos de lo que habiamos previsto... que se escape a la tabla de cortar o al aire; nunca a nuestro cuerpo (o al de otros).
 
-En según qué cortes, puede resultar complicado al principio. Pero al final seguro que buscamos la manera de agarrar el alimento y hacer el corte de forma segura. Mejor tardar más o cortar peor, que enriquecer el guiso con nuestra sangre.
+En según qué cortes, puede resultar complicado al principio. Pero al final seguro que buscamos alguna manera (más o menos) cómoda de agarrar el alimento y hacer el corte de forma segura. Mejor tardar más o cortar peor, que enriquecer el guiso con nuestra sangre.
 
-Al principio hay que ser extra cuidadoso con cómo nos colocamos en todos y cada uno de los cortes. Pero, a base de mucho cortar, lo de poner los dedos fuera de la trayectoria de la herramienta se convierte en un hábito.
+Al principio hay que ser extra cuidadoso en todos y cada uno de los cortes. Pero, a base de mucho cortar, lo de poner los dedos fuera de la trayectoria de la herramienta se acaba convirtiendo en un hábito.
+
+[Cómo usar un cuchillo y afilarlo (bien) - Diegodoal](https://www.youtube.com/watch?v=2Pc8B18TIdw)
 
 ## Verduras
 
@@ -57,7 +59,7 @@ En una sartén donde tengamos salsa (que hemos preparado previamente), echar una
 
 Una de las salsas más sencillas suele ser: sofreir cebolla picada, con aceite de oliva, a fuego lento; añadir tomate; añadir algún complemento como taquitos de jamón o de chorizo. Dejar un tiempo a fuego lento, hasta que el tomate esté bien hecho. 
 
-Para algunas sugerencias de otras salsas: [Diegodoal: pastas clásicas italianas](https://www.youtube.com/watch?v=eNNkG0s9CB0)
+Para algunas sugerencias de otras salsas: [Pastas clásicas italianas - Diegodoal](https://www.youtube.com/watch?v=eNNkG0s9CB0)
 
 ### cosas importantes a tener en cuenta
 
@@ -125,13 +127,13 @@ Poner en un bol:
 
 nota: Las medidas son simplemente para dar más o menos las proporciones. La proporción más importante es la de aproximadamente 1/2 entre la harina (en gr) y el agua (en ml). Aunque esta proporción también es discutible: hay quien le gusta la masa menos hidratada (más fácil de trabajar) y a quien le gusta más hidratada (más difícil de trabajar). La calidad y el tipo de la harina también influye en la hidratación.
 
-Poner todos los ingredientes en un bol. Remover e integrar todo con una mano (mientras sujetamos el bol con la otra). Remover hasta tener una pella de masa que se pueda sacar del bol y trabajar sobre la mesa con las dos manos. Trabajar la masa, amasandola durante unos diez minutos como mínimo.
+Poner todos los ingredientes en un bol. Remover e integrar todo con una mano (mientras sujetamos el bol con la otra). Remover hasta tener una pella de masa que se pueda sacar del bol y trabajar sobre la mesa con las dos manos. Trabajar la masa, amasandola durante unos 10 minutos como mínimo.
 
-nota: Es mucho menos cansado si usamos una amasadora mecánica, (con varilla "monocuerpo" para masas; no la varilla "multihilos", que es para batir). Si se usa amasado mecánico, con cinco minutos de trabajo es suficiente.
+nota: Es más cómodo si usamos una amasadora mecánica, (con varilla "monocuerpo" para masas; no con la varilla "multihilos", que es para batir); en el amasado mecánico es suficiente con 5 minutos.
 
-Dejar fermentar toda la masa en bloque. En un recipiente hermético de plástico. Durante unas cuatro o cinco horas si está en un ambiente cálido (entre veintitantos y treintatantos grados). Durante unas veinticuatro horas si está en un ambiente refrigerado (debajo de diez grados).
+Dejar fermentar toda la masa en bloque. En un recipiente tapado (o cubierto con film transparente). La fermentación depende de la temperatura; necesita de unas 3 o 4 horas si está en un ambiente cálido (entre veintitantos o treintatantos grados); o de unas 24 horas si está en un ambiente refrigerado (debajo de diez grados).
 
-Encender el horno. El horno ha de estar bien caliente (alrededor de unos 300 grados Celsius) antes de meter el pan.
+Encender el horno y precalentarlo. El horno ha de estar bien caliente (alrededor de unos 300 grados Celsius) antes de meter el pan.
 
 Trocear la masa fermentada y dar forma a cada pieza. Dejar fermentar las piezas a temperatura ambiente; en cestos de madera o similar, recubiertas con tela de lino o similar. Durante más o menos una hora.
 
