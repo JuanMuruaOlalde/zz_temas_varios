@@ -6,11 +6,13 @@ Aprovecho para comentar que hay muchas formas de cocinar. Cada cual cocina como 
 
 ## Importante
 
-Cualquier cosa se corta mejor con un cuchillo adecuado y bien afilado. Pero cuanto más afilado esté el cuchillo, mayor peligro de cortarnos nosotros.
+Cualquier cosa se corta mejor con un cuchillo adecuado y bien afilado. Además, contrariamente a lo que se piensa, un cuchillo afilado es más seguro que uno romo. Eso sí, siempre y cuando se utilice de forma adecuada.
 
-Solo hay una manera segura de cortar: jamás de los jamases poner los dedos (ni ninguna otra parte del cuerpo) en la dirección de la herramienta. En todo momento, si el movimiento de la herramienta fuera más lejos de lo que habiamos previsto... que se escape a la tabla de cortar o al aire; nunca a nuestro cuerpo (o al de otros).
+Solo hay una manera segura de utilizar cualquier herramienta: jamás de los jamases poner los dedos (ni ninguna otra parte del cuerpo) en la dirección de trabajo. Tener siempre presente, en todo momento, que si el movimiento de la herramienta fuera más lejos de lo que habiamos previsto... que acabe en un tope seguro (por ejemplo, la tabla de cortar) o en el aire; y no en nuestro cuerpo (o en el de otros).
 
-En según qué cortes, puede resultar complicado al principio. Pero al final seguro que buscamos alguna manera (más o menos) cómoda de agarrar el alimento y hacer el corte de forma segura. Mejor tardar más o cortar peor, que enriquecer el guiso con nuestra sangre.
+Concretamente, con un cuchillo se suele usar el agarre "en forma de garra". con los dedos flexionados y la hoja del cuchillo apoyada sobre los nudillos.
+
+En según qué cortes, puede resultar más o menos complicado. Pero al final seguro que buscamos alguna manera más o menos cómoda de agarrar el alimento y hacer el corte de forma segura. Mejor tardar más o cortar peor, que enriquecer el guiso con nuestra sangre.
 
 Al principio hay que ser extra cuidadoso en todos y cada uno de los cortes. Pero, a base de mucho cortar, lo de poner los dedos fuera de la trayectoria de la herramienta se acaba convirtiendo en un hábito.
 
