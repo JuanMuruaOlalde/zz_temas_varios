@@ -2,7 +2,7 @@
 
 Estos son algunos consejos que podrian ser útiles para comenzar a cocinar la comida básica del día a día.
 
-Aprovecho para comentar que hay muchas formas de cocinar. Cada cual cocina como le apetece, y en la cocina no hay nada bien hecho ni nada mál hecho. Esto son simplemente algunas ideas... 
+Aprovecho para comentar que hay muchas formas de cocinar. Cada cual cocina como le apetece, y en la cocina no hay nada bien hecho ni nada mál hecho. Esto son simplemente algunas ideas para animarse a comer sano... 
 
 ## Importante
 
@@ -18,16 +18,18 @@ Al principio hay que ser extra cuidadoso en todos y cada uno de los cortes. Pero
 
 [Cómo usar un cuchillo y afilarlo (bien) - Diegodoal](https://www.youtube.com/watch?v=2Pc8B18TIdw)
 
+
 ## Verduras
 
-Son lo más fácil de cocinar: cortar las verduras, ponerlas en una cazuela con agua y hervir. Poner la mezcla de verduras y vegetales que nos apetezca; (casi) todo vale.
+Son lo más fácil de cocinar: cortar las verduras, ponerlas en una cazuela con agua y hervir. 
+
+Poner la mezcla de verduras y vegetales que nos apetezca; (casi) todo vale.
 
 Echar sal y un chorrito de aceite de oliva. Cocer durante una media hora a fuego medio.
 
 nota: Las personas detallistas tienen en cuenta que cada verdura tiene un punto de cocción diferente. Por eso, las menestras de verduras "de calidad" se suelen hacer hirviendo las verduras por separado; cada una su tiempo ideal. Pero si no somos detallistas, pueden hervirse todas juntas y el resultado suele quedar "bien".
 
 nota: La zanahoria y la patata ayudan a que cualquier plato de verduras tenga mejor aceptación por parte de quienes vayan a comerlo. Conviene no abusar de la patata; es más saludable abusar de la zanahoria.
-
 
 ### cosas importantes a tener en cuenta
 
@@ -49,6 +51,7 @@ Atención con las espinacas. Tienden a formar un cuerpo compacto, difícil de se
 
 Algo parecido, pero menos pronunciado, sucede con las acelgas. Con ellas también es muy recomendable poner cubitos de patata, de zanahoria y/o de calabacín.
 
+
 ## Pasta
 
 Poner abundante agua, con abundante sal, a hervir.
@@ -69,6 +72,7 @@ Durante la cocción, revolver de vez en cuando. Para evitar que se pegue la past
 
 No añadir nunca aceite al agua de cocción. El aceite, al escurrir la pasta, crea una capa sobre la pasta que impide que se impregne luego con la salsa. Arruinando completamente el plato.
 
+
 ## Legumbres
 
 Dejarlas hidratar en agua. Para las lentejas puede bastar unos 15 minutos, para las alubias mejor dejarlas unas cuantas horas y para los garbanzos se necesitan un mínimo de unas 12 horas (mejor 24).
@@ -77,14 +81,6 @@ Se puede comenzar a cocer directamente en el agua de hidratar. Cocer a fuego baj
 
 Después de ese tiempo cociendose ella sola la legumbre, añadir verduras, sal y un chorrito de aceite de oliva (o "sacramentos", si se desea un aporte de grasa mayor). Seguir cociendo: lentejas otra media hora (hasta que las verduras estén cocidas), alubias como otra hora o así. Revolviendo de vez en cuando.
 
-### cosas importantes a tener en cuenta
-
-Cocer a fuego lento, para evitar romper la legumbre. (Sobre todo las alubias, que necesitan cocerse muy suave). Importante revolver de vez en cuando, para evitar que se pegue el fondo.
-
-Las alubias mejoran si se les corta la cocción con agua fria, un par de veces por lo menos. También mejoran si tienen abundante grasa al final de la cocción. (Esa es la misión de los "sacramentos": chorizo de cocer, panceta, carne de cerdo grasa,...).
-
-Con el resto de legumbres, si se necesita añadir más agua durante la cocción, mejor que sea caliente.
-
 ### garbanzos
 
 Los garbanzos son un poco especiales. Van alrevés del resto de legumbres: hay que sacarlos del agua de hidratar antes de empezar y devolverlos al agua cuando esté hirviendo. Es decir, primero ponemos a cocer las verduras y todo lo demás (sin los garbanzos); esperamos a que el guiso esté hirviendo y entonces echamos los garbanzos.
@@ -92,6 +88,14 @@ Los garbanzos son un poco especiales. Van alrevés del resto de legumbres: hay q
 Los garbanzos hacen muy buen caldo si se cuecen con esqueletos de pollo, huesos de caña o huesos de rodilla. Poner abundante agua desde el principio, en una olla grande. Si se ha de añadir más agua durante la cocción, que sea muy caliente (hirviendo).
 
 Con los garbanzos se puede aprovechar también para cocer carne de guisar, morcillo o jarrete. Esa carne se puede terminar luego aparte, con tomate u otra salsa. Así tenemos una comida de tres platos en un solo guiso: caldo, garbanzos con verduras y carne en salsa.
+
+### cosas importantes a tener en cuenta
+
+Cocer a fuego lento, para evitar romper la legumbre. (Sobre todo las alubias, que necesitan cocerse muy suave). Importante revolver de vez en cuando, para evitar que se pegue el fondo.
+
+Las alubias mejoran si se les corta la cocción con agua fria, un par de veces por lo menos. También mejoran si tienen abundante grasa al final de la cocción. (Esa es la misión de los "sacramentos": chorizo de cocer, panceta, carne de cerdo grasa,...).
+
+Con el resto de legumbres, si se necesita añadir más agua durante la cocción, mejor que sea caliente.
 
 
 ## Arroz
@@ -120,6 +124,11 @@ No se puede perder de vista el arroz durante ningún momento de la cocción. Nec
 
 En los últimos cinco o diez minutos de cocción, se le puede dejar que vaya consumiento liquido. Tras la cocción, es conveniente dejar reposar unos diez o quince minutos fuera del fuego; para que el arroz termine de absorber el liquido y no quede demasiado caldoso.
 
+### comentarios
+
+Para algunas sugerencias de otras variantes:  [Arroz con cosas - Diegodoal](https://www.youtube.com/@diegodoal/search?query=arroz%20con%20cosas)
+
+
 ## Pan
 
 Poner en un bol:
@@ -137,7 +146,7 @@ nota: Es más cómodo si usamos una amasadora mecánica, (con varilla "monocuerp
 
 Dejar fermentar toda la masa en bloque. En un recipiente tapado (o cubierto con film transparente). La fermentación depende de la temperatura; necesita de unas 3 o 4 horas si está en un ambiente cálido (entre veintitantos o treintatantos grados); o de unas 24 horas si está en un ambiente refrigerado (debajo de diez grados).
 
-Encender el horno y precalentarlo. El horno ha de estar bien caliente (alrededor de unos 300 grados Celsius) antes de meter el pan.
+Encender el horno y precalentarlo. El horno ha de estar bien caliente (alrededor de unos 300 grados Celsius) cuando se vaya a meter el pan.
 
 Trocear la masa fermentada y dar forma a cada pieza. Dejar fermentar las piezas a temperatura ambiente; en cestos de madera o similar, recubiertas con tela de lino o similar. Durante más o menos una hora.
 
@@ -145,9 +154,7 @@ Antes de meter cada pieza al horno, conviene hacerle unos cortes. Usar una cuchi
 
 nota: Los cortes son meramente decorativos. Si no se hace ningún corte, no pasa nada; simplemente la corteza liberará tensiones abriendose aleatóriamente por dónde sea... y el pan puede quedar "feo"?
 
-Para meter el pan al horno caliente, es conveniente tener una pala. Enharinando la pala antes de poner la pieza sobre ella, facilitaremos la transferencia de la pala al horno.
-
-Recién metidas las piezas al horno, conviene crear un poco de humedad dentro de él. Por ejemplo poniendo un cuenco metálico con algo de agua o echando algo de agua sobre otra bandeja que esté debajo de la del pan. Esta humedad favorece la creación de una corteza crujiente.
+Sobre todo al comienzo de la cocción conviene que haya humedad dentro del horno. Por ejemplo, podemos poner un cuenco metálico con algo de agua. Esta humedad favorece la creación de una corteza crujiente.
 
 Hornear durante unos 30 minutos.
 
@@ -163,6 +170,7 @@ Sobretrabajar el amasado puede estropear la masa. De ahí lo de cuidar no sobrep
 
 nota: Las levaduras son seres vivos y existen multitud de especies de levaduras. Están presentes de forma natural en muchas superficies, en prácticamente casi cualquier lugar. Las levaduras se pueden cultivar y conservar. Es lo que se denomina 'masa madre': una pella de harina donde crecen levaduras. Una pella de masa madre se mantiene viva cuidandola todos los días: retirando la mitad para hacer el pan del día y añadiendo harina/agua nueva para recuperar esa mitad de masa.
 
+nota: Para meter el pan al horno caliente, es conveniente tener una pala de madera; enharinando la pala antes de poner la pieza sobre ella, facilitaremos la transferencia de la pala al horno. Otra forma de hacerlo puede ser con unos canastillos de madera forrados de tela; realizando la segunda fermentación de las piezas cada una dentro de su canastillo, podemos luego volcarlos directamente sobre la bandeja del horno.
 
 
 ## Bibliografia
@@ -170,4 +178,8 @@ nota: Las levaduras son seres vivos y existen multitud de especies de levaduras.
 - Para quien le guste experimentar y quiera profundizar en los fundamentos fisico/químicos de la cocina. Le recomendaría el libro: "On Food and Cooking: The Science and Lore of the Kitchen". Harold McGee. Ed. Prentice Hall. 1984. (traducción al castellano: "La cocina y los alimentos". Ed. Random House Mondadori. 2007.).
 
 - Para quien le guste probar sabores nuevos o realizar recetas "sofisticadas" de forma sencilla. Le recomendaria este canal: (https://www.youtube.com/@diegodoal)
+
+  Aunque también tiene recetas "tradicionales"
+    - [Hago 7 platos de cuchara españoles clásicos - Diegodoal](https://youtu.be/WoxQJxCVuMc)
+    - [Hago 7 guisos españoles clásicos - Diegodoal](https://youtu.be/1hs5gjBtDrw) 
 
