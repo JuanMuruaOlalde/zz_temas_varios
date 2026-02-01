@@ -10,8 +10,8 @@
 | agua        | 250 ml | 175 ml | 150 ml |  --    |        | agua        |
 | leche       |  --    | 125 ml |  --    |  85 ml |  (*)   | leche       |
 | mantequilla |  --    |  45 gr | 275 gr |  --    | 100 gr | mantequilla |
-| horno       | 300 ·C | 180 ·C | 200 ·C |  --    | 300 ·C | temperatura |
-| horno       |  30 min|  45 min|  45 min|  --    |  30 min| tiempo      |
+| horno       | 300 ·C | 180 ·C | 200 ·C |  --    | 180 ·C | temperatura |
+| horno       |  30 min|  45 min|  45 min|  --    |  20 min| tiempo      |
 
 (*) liquido para roscón:
 - 45 ml zumo naraja
